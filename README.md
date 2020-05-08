@@ -20,12 +20,12 @@ See [deno_install](https://github.com/denoland/deno_install) for more installati
 
 **official DENO links:**
 
-[github repo](https://github.com/denoland/deno)
+- [github repo](https://github.com/denoland/deno)
 
-[website](https://deno.land/)
+- [website](https://deno.land/)
 
-[discord server](https://discord.com/channels/684898665143206084/684898665151594506)
+- [discord server](https://discord.com/channels/684898665143206084/684898665151594506)
 
-[twitter](https://twitter.com/deno_land)
+- [twitter](https://twitter.com/deno_land)
 
-[more](https://github.com/denolib/awesome-deno)
+- [more](https://github.com/denolib/awesome-deno)
