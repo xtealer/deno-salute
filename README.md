@@ -18,7 +18,13 @@ Using [Chocolatey](https://chocolatey.org/packages/deno) (Windows):
 
 See [deno_install](https://github.com/denoland/deno_install) for more installation options.
 
-**official DENO links:**
+## Run
+
+Needs to be run with network access permissions
+
+`deno --allow-net salute.ts`
+
+## Official DENO links
 
 - [github repo](https://github.com/denoland/deno)
 
